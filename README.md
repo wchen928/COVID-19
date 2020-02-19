@@ -1,4 +1,13 @@
-# 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
+## Explanation of the files:
+- My analysis and code: _COVID_Analysis_ (Written in Jupyter Notebook and in the language of Python 3)
+- Dataset: all the files are in the _daily_case_updates_ folder
+
+## Context of this project:
+
+I picked up this project for my own interest. Thus, there were no instructions or anything else given other than the dataset. 
+
+
+## 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
 This is the data repository for the 2019 Novel Coronavirus Vizual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE). Also, Supported by ESRI Living Atlas Team
