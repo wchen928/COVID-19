@@ -1,5 +1,6 @@
 ## Explanation of the files:
-- My analysis and code: _COVID_Analysis_ (Written in Jupyter Notebook and in the language of Python 3)
+- My analysis and code: _COVID_Analysis.ipynb_ (Written in Jupyter Notebook and in the language of Python 3)
+- If you cannot open the aboved file, you can download the whole folder by clicking the right hand corner. Then open the file _COVID_Analysis.html_. 
 - Dataset: all the files are in the _daily_case_updates_ folder
 
 ## Context of this project:
